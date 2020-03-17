@@ -339,7 +339,7 @@
 			
 					
 				<li>
-					<span class="ability-title">Microsoft Excel</span>
+					<span class="ability-title">Canva</span>
 					<span class="ability-score">
 					
 									
@@ -403,7 +403,7 @@
 						<span class="glyphicon glyphicon-star filled"></span>
 						
 									
-						<span class="glyphicon glyphicon-star filled"></span>
+						<span class="glyphicon glyphicon-star "></span>
 						
 										
 					</span>
@@ -411,7 +411,7 @@
 								
 					
 				<li>
-					<span class="ability-title">Canva</span>
+					<span class="ability-title">Microsoft Excel</span>
 					<span class="ability-score">
 					
 									
@@ -427,7 +427,7 @@
 						<span class="glyphicon glyphicon-star filled"></span>
 						
 									
-						<span class="glyphicon glyphicon-star filled"></span>
+						<span class="glyphicon glyphicon-star "></span>
 						
 										
 					</span>
@@ -451,7 +451,7 @@
 						<span class="glyphicon glyphicon-star filled"></span>
 						
 									
-						<span class="glyphicon glyphicon-star filled"></span>
+						<span class="glyphicon glyphicon-star "></span>
 						
 										
 					</span>
@@ -471,10 +471,10 @@
 						<span class="glyphicon glyphicon-star filled"></span>
 						
 									
-						<span class="glyphicon glyphicon-star filled"></span>
+						<span class="glyphicon glyphicon-star "></span>
 						
 									
-						<span class="glyphicon glyphicon-star filled"></span>
+						<span class="glyphicon glyphicon-star "></span>
 						
 										
 					</span>
@@ -486,104 +486,6 @@
 		<div class="col-md-6">
 			<ul class="no-bullets">
 				
-									
-				<li>
-					<span class="ability-title">Adobe Photoshop</span>
-					<span class="ability-score">
-					
-									
-						<span class="glyphicon glyphicon-star filled"></span>
-						
-									
-						<span class="glyphicon glyphicon-star filled"></span>
-						
-									
-						<span class="glyphicon glyphicon-star filled"></span>
-						
-									
-						<span class="glyphicon glyphicon-star filled"></span>
-						
-									
-						<span class="glyphicon glyphicon-star filled"></span>
-						
-										
-					</span>
-				</li>
-				
-								
-				<li>
-					<span class="ability-title">Adobe Rush</span>
-					<span class="ability-score">
-					
-									
-						<span class="glyphicon glyphicon-star filled"></span>
-						
-									
-						<span class="glyphicon glyphicon-star filled"></span>
-						
-									
-						<span class="glyphicon glyphicon-star filled"></span>
-						
-									
-						<span class="glyphicon glyphicon-star filled"></span>
-						
-									
-						<span class="glyphicon glyphicon-star filled"></span>
-						
-										
-					</span>
-				</li>
-				
-						
-					
-				<li>
-					<span class="ability-title">Adobe InDesign</span>
-					<span class="ability-score">
-					
-									
-						<span class="glyphicon glyphicon-star filled"></span>
-						
-									
-						<span class="glyphicon glyphicon-star filled"></span>
-						
-									
-						<span class="glyphicon glyphicon-star filled"></span>
-						
-									
-						<span class="glyphicon glyphicon-star filled"></span>
-						
-									
-						<span class="glyphicon glyphicon-star "></span>
-						
-										
-					</span>
-				</li>
-				
-										
-				<li>
-					<span class="ability-title">Adobe Illustrator</span>
-					<span class="ability-score">
-					
-									
-						<span class="glyphicon glyphicon-star filled"></span>
-						
-									
-						<span class="glyphicon glyphicon-star filled"></span>
-						
-									
-						<span class="glyphicon glyphicon-star filled"></span>
-						
-									
-						<span class="glyphicon glyphicon-star filled"></span>
-						
-									
-						<span class="glyphicon glyphicon-star "></span>
-						
-										
-					</span>
-				</li>
-				
-										
 				<li>
 					<span class="ability-title">SPSS Statistics</span>
 					<span class="ability-score">
@@ -598,7 +500,7 @@
 						<span class="glyphicon glyphicon-star filled"></span>
 						
 									
-						<span class="glyphicon glyphicon-star filled"></span>
+						<span class="glyphicon glyphicon-star "></span>
 						
 									
 						<span class="glyphicon glyphicon-star "></span>
@@ -621,7 +523,30 @@
 						<span class="glyphicon glyphicon-star filled"></span>
 						
 									
+						<span class="glyphicon glyphicon-star "></span>
+						
+									
+						<span class="glyphicon glyphicon-star "></span>
+						
+										
+					</span>
+				</li>			
+								
+				<li>
+					<span class="ability-title">Adobe Rush</span>
+					<span class="ability-score">
+					
+									
 						<span class="glyphicon glyphicon-star filled"></span>
+						
+									
+						<span class="glyphicon glyphicon-star filled"></span>
+						
+									
+						<span class="glyphicon glyphicon-star filled"></span>
+						
+									
+						<span class="glyphicon glyphicon-star "></span>
 						
 									
 						<span class="glyphicon glyphicon-star "></span>
@@ -629,6 +554,77 @@
 										
 					</span>
 				</li>
+				
+				<li>
+					<span class="ability-title">Adobe Photoshop</span>
+					<span class="ability-score">
+					
+									
+						<span class="glyphicon glyphicon-star filled"></span>
+						
+									
+						<span class="glyphicon glyphicon-star filled"></span>
+						
+									
+						<span class="glyphicon glyphicon-star "></span>
+						
+									
+						<span class="glyphicon glyphicon-star "></span>
+						
+									
+						<span class="glyphicon glyphicon-star "></span>
+						
+										
+					</span>
+				</li>			
+					
+				<li>
+					<span class="ability-title">Adobe InDesign</span>
+					<span class="ability-score">
+					
+									
+						<span class="glyphicon glyphicon-star filled"></span>
+						
+									
+						<span class="glyphicon glyphicon-star "></span>
+						
+									
+						<span class="glyphicon glyphicon-star "></span>
+						
+									
+						<span class="glyphicon glyphicon-star "></span>
+						
+									
+						<span class="glyphicon glyphicon-star "></span>
+						
+										
+					</span>
+				</li>
+				
+										
+				<li>
+					<span class="ability-title">Adobe Illustrator</span>
+					<span class="ability-score">
+					
+									
+						<span class="glyphicon glyphicon-star filled"></span>
+						
+									
+						<span class="glyphicon glyphicon-star "></span>
+						
+									
+						<span class="glyphicon glyphicon-star "></span>
+						
+									
+						<span class="glyphicon glyphicon-star "></span>
+						
+									
+						<span class="glyphicon glyphicon-star "></span>
+						
+										
+					</span>
+				</li>
+				
 			</ul>
 		</div>		
 	</div>	
